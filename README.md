@@ -27,7 +27,7 @@ you will defeat it if you do, if you don't you will lose a hearth (You will star
 ![image](https://github.com/user-attachments/assets/f46f975a-1a97-4258-81bc-057b53339850)
 
 
-Sorry if the function and names in the code are in spanish and english, my native language is spanish but when I program I mostly think in english..
+Sorry if the function and names in the code are both in spanish and english, my native language is spanish but when I program I mostly think in english..
 
 Try, modify, improve or do whatever you want with the game.
 
