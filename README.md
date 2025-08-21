@@ -1,4 +1,5 @@
 # Karel Knight
+<img width="1536" height="1024" alt="intro_image" src="https://github.com/user-attachments/assets/b4e7479f-ee97-4ea4-a1c7-0c107594e6ce" />
 
 Princess Ada Lovelace has been kidnapped by the Bug Empire! Embark on a perilous journey across a world of tiles and challenges, where you'll be surrounded by tricky bugs and programming quizzes. Each step brings you closer to rescuing the princess… and mastering key programming concepts along the way!
 
@@ -7,6 +8,8 @@ This is the final project for Stanford University Code In Place 2025.
 Built completely in Python using TKinter
 
 Functionalities:
+<img width="1536" height="1024" alt="instrucciones" src="https://github.com/user-attachments/assets/2281192f-1f86-4035-9f2f-e858627f6f58" />
+
 
 ## GO button:
 Rolls 2 dices of 6 faces each, this is the way you move through the board.
@@ -21,13 +24,11 @@ Red ord that will make you move back 3 places when you fall in it.
 Your most powerful weapon against this enemy is the knowledge! The enemy will throw you a random programming question, you will have to answer correctly,
 you will defeat it if you do, otherwise you will lose a hearth (You will start with 10)
 
-![instrucciones](https://github.com/user-attachments/assets/b9c6bfa2-0bd4-4dfd-84ff-e7e6274a3433)
+<img width="1493" height="906" alt="adada" src="https://github.com/user-attachments/assets/176267e9-2491-4dbe-9e16-7a8994b90d21" />
 
 
-![image](https://github.com/user-attachments/assets/f46f975a-1a97-4258-81bc-057b53339850)
 
-
-Sorry if the function and names in the code are both in spanish and english, my native language is spanish but when I program I mostly think in english..
+The function names might be both in spanish and english, my native language is spanish but when I program I mostly think in english..
 
 Try, modify, improve or do whatever you want with the game.
 
