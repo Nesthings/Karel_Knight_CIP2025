@@ -19,7 +19,7 @@ Red ord that will make you move back 3 places when you fall in it.
 
 ## Enemy:
 Your most powerful weapon against this enemy is the knowledge! The enemy will throw you a random programming question, you will have to answer correctly,
-you will defeat it if you do, if you don't you will lose a hearth (You will start with 10)
+you will defeat it if you do, otherwise you will lose a hearth (You will start with 10)
 
 ![instrucciones](https://github.com/user-attachments/assets/b9c6bfa2-0bd4-4dfd-84ff-e7e6274a3433)
 
